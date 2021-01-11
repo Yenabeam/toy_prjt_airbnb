@@ -28,17 +28,15 @@ pip install sklearn
 - 지역별 숙소의 개수
 
   <img src="https://user-images.githubusercontent.com/72847093/104142681-ec3b3080-53ff-11eb-8db1-cf42268f0ac7.png"></img>
-  
 - 지역별 숙소의 분포와 예약 가능일 수 
 
   <img src="https://user-images.githubusercontent.com/72847093/104142716-0aa12c00-5400-11eb-9a21-febecf3e333f.png"></img>
 - 숙소 유형의 개수 
 
   <img src="https://user-images.githubusercontent.com/72847093/104142732-21478300-5400-11eb-9d09-4cf9ebbf0079.png"></img>
-- 지역별 숙소 유형에 따른 분포와 가능일수에 따른 분포 
+- 지역별 숙소 유형에 따른 분포
 
   <img src="https://user-images.githubusercontent.com/72847093/104142740-2c9aae80-5400-11eb-82ce-9f61f77968a8.png"></img>
-  <img src="https://user-images.githubusercontent.com/72847093/104142750-37554380-5400-11eb-8c99-141eeebde6f6.png"></img>
 - 주요 도시에 대한 워드클라우드 시각화
 
   <img src="https://user-images.githubusercontent.com/72847093/104142760-420fd880-5400-11eb-92b7-378bb401c628.png"></img>
